@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar-brand .logo {
+    width: 10%;
+    margin-right: 10px;
+}
+
+/* Cor da marca no navbar */
+.navbar-brand {
+    color: #007BFF;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+
+.navbar-nav .nav-link {
+    color: #0e917f;
+    font-weight: 500;
+}
+
+.navbar-nav .nav-link.active {
+    color: #0056b3;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #0056b3;
+}
+
+
+.navbar {
+    padding: 1rem;
+}
